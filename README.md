@@ -5,7 +5,7 @@
 * **Help Desk & Ticketing Systems**
     * [osTicket: Post-Installation & Lifecycle Management](https://github.com/stevevue77/osTicket-Ticketing-System-Lab)
 * **Active Directory & Identity Management (Azure)**
-    * [On-premises Active Directory & RBAC Deployed in the Cloud](https://github.com/stevevue77/Enterprise-AD-RBAC-Lab)
+    * [On-premises Active Directory & RBAC Deployed in the Cloud](https://github.com/stevevue77/Active-Directory)
 * **Network Analysis**
     * [Azure Network Traffic Analysis & Security Engineering](https://github.com/stevevue77/Azure-Network-Protocols)
 * **File Permissions & Storage**

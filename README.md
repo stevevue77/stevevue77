@@ -15,4 +15,4 @@
 
 ## 🤳 Connect with me:
 
-* **LinkedIn:** [linkedin.com/in/stevevue](https://www.linkedin.com/in/stevevue)
+* **LinkedIn:** [linkedin.com/in/stevevue](https://www.linkedin.com/in/steve-vue-70aa65248)

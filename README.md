@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Steve, a Cybersecurity & IT Professional 👋
 
-<!--
-**stevevue77/stevevue77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Information Technology Projects:
 
-Here are some ideas to get you started:
+* **Help Desk & Ticketing Systems**
+    * [osTicket: Post-Installation & Lifecycle Management](https://github.com/stevevue77/osTicket-Ticketing-System-Lab)
+* **Active Directory & Identity Management (Azure)**
+    * [On-premises Active Directory & RBAC Deployed in the Cloud](https://github.com/stevevue77/Enterprise-AD-RBAC-Lab)
+* **Network Analysis**
+    * [Azure Network Traffic Analysis & Security Engineering](https://github.com/stevevue77/Azure-Network-Protocols)
+* **File Permissions & Storage**
+    * [Azure Network File Shares and NTFS Permissions](https://github.com/stevevue77/Azure-Network-File-Shares)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🤳 Connect with me:
+
+* **LinkedIn:** [linkedin.com/in/stevevue](https://www.linkedin.com/in/stevevue)
